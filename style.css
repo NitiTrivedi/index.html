@@ -1,0 +1,12 @@
+body {
+  background-color: #f0f0f0; /* Replace with your desired background color */
+  /* OR */
+  /* background-image: url('your_image_url.jpg'); */ /* Replace with your image URL */
+  /* background-size: cover; */ /* Uncomment this line if you want the image to cover the entire background */
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
